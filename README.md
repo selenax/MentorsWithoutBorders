@@ -2,4 +2,5 @@
 
 A project that I have worked on to connect mentors and mentees from around the world. 
 
-![MentorsWithoutBorders](https://drive.google.com/open?id=1il_Gg5EPFnh12KaDk6GkR3bJ1i_AMY6_)
+<img width="1666" alt="mentors without borders" src="https://user-images.githubusercontent.com/29153931/44297096-6c392c80-a280-11e8-9247-5df679cb97b4.png">
+
